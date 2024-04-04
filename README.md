@@ -17,7 +17,7 @@ I am from **Indonesia!** Kalimantan boy🏝️. Currently study in **IDN Boardin
 
 # Stats 📈
 
-![](https://github-trophies.vercel.app/?username=Laluiman&rank=SECRET,SSS,SS,AAA,AA,A)
+![](https://github-trophies.vercel.app/?username=Laluiman&rank=SECRET,SSS,SS,AAA,AA,A,B)
 
 <div>
  <a href="https://github.com/laluiman/">
