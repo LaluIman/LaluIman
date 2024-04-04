@@ -1,11 +1,10 @@
 
-![Header](https://github.com/Eye-Mans/Eye-Mans/assets/140592472/c9bc7b7c-7a5a-4d2e-9eeb-de6d36c54b32)
 
-<p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=laluiman&row=1&no-frame=true" alt="laluiman" /></a></p>
-
-# 👋 About me
+# About me <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+My name is **Lalu Iman Abdullah**, 
 Im a Web & mobile developer, Interested in Front-end &  iOS Development.
-I am from **Indonesia!** Kalimantan boy🏝️. <br> Currently study in **IDN Boarding School**🏫 
+<br>
+I am from **Indonesia!** Kalimantan boy🏝️. Currently study in **IDN Boarding School**🏫, check out my personal <a href="https://laluiman.vercel.app/">portfolio</a>
 
 
 **FOLLOW MY SOCIAL!!!**
@@ -14,10 +13,19 @@ I am from **Indonesia!** Kalimantan boy🏝️. <br> Currently study in **IDN Bo
 
 
 # My Tools 🔧
-
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Tailwindcss](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)  ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=laluiman&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+# Stats 📈
+
+![](https://github-trophies.vercel.app/?username=Laluiman&rank=SECRET,SSS,SS,AAA,AA,A)
+
+<div>
+ <a href="https://github.com/laluiman/">
+  <img src="https://github-readme-stats.vercel.app/api?username=laluiman&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
+  
+</a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=laluiman&layout=compact&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40"  />
+</div>
 
 ![snake gif](https://github.com/emRival/emRival/blob/output/github-contribution-grid-snake-dark.svg)
 
