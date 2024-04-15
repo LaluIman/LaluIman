@@ -11,7 +11,7 @@ I am from **Indonesia!** Kalimantan boy🏝️. Currently study in **IDN Boardin
 
 <div  align="center">
 <h1>Follow my social from this Linktree!!!</h1>
-<a href="https://linktr.ee/LaluIman">
+<a target="_blank" href="https://linktr.ee/LaluIman">
  <img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" />
 </a>
 </div>
@@ -28,7 +28,7 @@ I am from **Indonesia!** Kalimantan boy🏝️. Currently study in **IDN Boardin
 ![](https://github-trophies.vercel.app/?username=Laluiman&rank=SECRET,SSS,SS,AAA,AA,A,B&row=1&column=10)
 
 <div>
- <a href="https://github.com/laluiman/">
+ <a>
   <img src="https://github-readme-stats.vercel.app/api?username=laluiman&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
   
 </a>
