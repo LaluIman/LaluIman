@@ -1,10 +1,13 @@
 
+<div align="center">
+<h1> About me <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> </h1>
 
-<h1 align="center"> About me <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> </h1>
 My name is **Lalu Iman Abdullah**, 
 Im a Web & mobile developer, Interested in Front-end &  iOS Development.
 <br>
 I am from **Indonesia!** Kalimantan boy🏝️. Currently study in **IDN Boarding School**🏫, check out my personal <a href="https://laluiman.vercel.app/">portfolio</a>
+
+</div>
 
 <div  align="center">
 <h1>Follow my social from this Linktree!!!</h1>
