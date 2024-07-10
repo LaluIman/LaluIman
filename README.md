@@ -7,15 +7,6 @@ Im a Web & mobile developer, Interested in Front-end &  iOS Development.
 <br>
 I am from **Indonesia!** Kalimantan boy🏝️. Currently study in **IDN Boarding School**🏫, check out my personal <a href="https://laluiman.vercel.app/">portfolio</a>
 
-
-
-<div  align="center">
-<h2>🌴Follow my social from this Linktree!!!🌴</h2>
-<a target="_blank" href="https://linktr.ee/LaluIman">
- <img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" />
-</a>
-</div>
-
 <div>
 <h2> My Tools 🔧 </h2>
 
@@ -26,8 +17,6 @@ I am from **Indonesia!** Kalimantan boy🏝️. Currently study in **IDN Boardin
 <h2>Stats 📈</h2>
 
 <div align="center">
-
-<p>New in wakatime!</p>
 <img src="https://wakatime.com/badge/user/018eefec-2166-4e14-b93f-92f0d4aa31ae.svg"/>
 
 ![](https://github-trophies.vercel.app/?username=Laluiman&rank=SECRET,SSS,SS,AAA,AA,A,B&row=1)
