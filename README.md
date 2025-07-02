@@ -24,7 +24,7 @@ I am from **Indonesia!** Kalimantan boy🏝️. Currently study in **IDN Boardin
 <img src="https://github-readme-stats.vercel.app/api?username=laluiman&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450" height="167"/>
   
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=laluiman&layout=compact&include_all_commits=true&count_private=true&show_icons=true&line_height=15&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laluiman&layout=compact&include_all_commits=true&count_private=true&show_icons=true&line_height=15&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" />
 </div>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=laluiman"/>
 
