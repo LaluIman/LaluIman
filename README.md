@@ -12,8 +12,8 @@ const laluimanabdullah = {
     tools: ["Git", "Figma", "VS Code", "Cursor"]
   },
   interests: [
-    "Building mobile apps
-    "Learning iOS and Swift",
+    "Building mobile apps"
+    "Love designing",
     "Remote work opportunities"
   ],
   contact: {
