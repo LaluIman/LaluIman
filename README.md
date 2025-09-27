@@ -8,8 +8,8 @@ const laluimanabdullah = {
   role: "Mobile & Frontend Developer",
   techStack: {
     mobile: ["Flutter", "Dart", "React Native", "SwiftUI", "Swift"],
-    frontend: ["Tailwind CSS", "JavaScript", "React (learning)"],
-    tools: ["Git", "Figma", "VS Code", "Cursor"]
+    frontend: ["Tailwind CSS", "JavaScript", "React"],
+    tools: ["Git", "Figma", "VS Code", "Github", "Gitlab", "Xcode"]
   },
   interests: [
     "Building mobile apps"
