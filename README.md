@@ -5,7 +5,7 @@
 
 const laluimanabdullah = {
   name: "Lalu Iman Abdullah",
-  role: "Mobile & Frontend Developer",
+  role: "Frontend Developer",
   techStack: {
     mobile: ["Flutter", "Dart", "React Native", "SwiftUI", "Swift"],
     frontend: ["Tailwind CSS", "JavaScript", "React"],
@@ -17,9 +17,9 @@ const laluimanabdullah = {
     "Remote work opportunities"
   ],
   contact: {
-    email: "laluimanabdullah@gmail.com",
-    linkedin: "linkedin.com/in/laluimanabdullah",
-    github: "github.com/laluimanabdullah"
+    email: "laluiman468@gmail.com",
+    linkedin: "linkedin.com/in/lalu-iman-abdullah",
+    github: "github.com/LaluIman"
   }
 };
 
