@@ -27,7 +27,7 @@ export default laluimanabdullah;
 
 ```
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=laluiman&show_icons=true&hide_title=true&hide_border=true&title_color=3586FF&text_color=ffff&icon_color=ffff&bg_color=212834&hide=issues" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=laluiman&layout=compact&hide_title=true&hide_border=true&title_color=3586FF&text_color=ffff&bg_color=212834" />
-</p>
+</p> -->
